@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "foodfinder-84179",
+  "private_key_id": "0b36b7351cf113e88e819c208d3fe6b2ef4b5a40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXaHw71J1YzCik\nwEplOt2L/6EOa5BADkkCuLGBtiPWxONN/H9+wR39OcIRfIvOb5IXb3s1A04pGZHd\n9Nz4t51WNz6TWTgTFot5wrbRt66sDnpI3RdqAkrT+7rxq6s7lnuyUVlV3A6MkzHI\nlWT37a3ijs6iJe4LiaZpqYQBO1E8Ydw0vTDlzAkLtw4vlTBV44pHIVNV+tJxR/nv\nQBZbml8iDH/eKkGzrS2eR99F2ta9RGpnibAyk95b5tGfVZevOjTTqBqG1WAEP5t4\nm655FMuQwvsgr2HkV7jY9CTo0G2q6We6H7x5DU1KoUcYLv5vmPtKPPxktemypYpu\naxV0S22FAgMBAAECggEAEGia6BLY3pIEuZIVSLNMe5TgL6FFdn+wE5c+nE8j2UEb\nwI3Op3juACNlc2ANpU7N7d+V3tKu4kYanLIBoCeagl4IdAB8m0WhH8gTlZOcqGoc\n6g5/cVmV2iKHmc+2Jj6fExULzVTLPe2bgfhRXep6z7KJroPdp37XkJ5zWgWq+UKm\nVBhF8HdMhNuqeWEA45e7JndPhiSCkmLUYyDjv0G/G9N7AFD7pbBPmgYDcrb4YuSQ\nDQfiMOmQpRWx9oW0ic3EY+cOPxxFlLeBsiSEFNUgaPw1knosyiZV2dfq6Jz6mX3F\nvMT9DabV7pHs32OcYqZKn7r9tOUkEUYI6ANFh0sYMQKBgQDuQgaJrOjrYXVaJTZQ\n/f8zUWCDGsEJtLnUXo5ailztPqTDrCeDyQExzw10DQNO5ynZ3ftJqHKJEN7cvTtP\nG37mr/6mNdv7FTjZA9DW4dlr5ioU+mOYp0vSBqLPwtuy55rYDEf3hPaOroswjURm\nJhtXKhJUV8m1Z8hes8sTcCN1VQKBgQDnct5XfvlYp3CK+eXxEXqj5Q0HLgG2Ot/f\nSfClq3+nUVtPCCEGNkKJwnQl7oeA+M9NUWVQdh46U0G/AMJZUcH8vLvk/pR3aF/z\nsI+AE8d08Q/dTqCj04UMpNGsF08CTKCIWA2y5VoIIvIhmlbr6RoX9wJKNwFb5bxN\n5DqtcLIXcQKBgQCMdNn70bZiBMs0wFk79/C5ZRDbWStRuHwQiUmscIMFzXc+bz/A\nPf/5SBGrR3yayEXwzR81thsHWK25Pck4AoKWJkyd2YR8iW9A6DH2a6BMLpzCTzXl\nqUJWZ1kV187CsiyjjuHiNj1PsfAWSEF5Yp+djAzQMgyUZ8FEqwNdyy7sHQKBgEX+\n61cyw14YZWTiZrQdQSXH48TEGShvbb0ts2WnFBgZ9q9UGgiy6DSZZl8CYGCU3rzX\nXPiUgFfLThrhs+UnYK96tKhwhZ4HJt2gDAYD9VJchRu858Aj/Bzyy6Zr9i0P14zk\ndGAiFLRZPTkEYD1AZe/ReBPRxstwEx7LYyOI7ZNBAoGBAOK52GN7Mq6KwOFHaHZh\ngAIzLzI0SC+30UxFan1X75ZHnsHad4nagIuwU6bhBahF+YL7i2rrUncY6nhIOxeC\nt4592IyxJUS30jCzVytovrgY4/IhbFm4PSyzRgbX+B4j1XIgQYAZP43oB2rulVVH\nNv203AjsJoqKs1smIQ9ziBeH\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodfinder@foodfinder-84179.iam.gserviceaccount.com",
+  "client_id": "103356962734749845494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodfinder%40foodfinder-84179.iam.gserviceaccount.com"
+}
